@@ -1,2 +1,2 @@
 # Hospital_Management_project
-# <a href="mangalam-restaurant.netlify.app">click here</a>
+# <a href="hospital-management321.netlify.app">click here</a>
